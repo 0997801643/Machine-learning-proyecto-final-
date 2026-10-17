@@ -1,0 +1,9 @@
+# Dataset completo (muy grande para GitHub: >100 MB por archivo)
+train.csv
+validation.csv
+test.csv
+*.parquet
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
